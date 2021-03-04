@@ -1,0 +1,72 @@
+begin 
+char arr[] = new char (20);
+ // Compiler Construction jhjhchkckch
+      /*
+      Hell or High Wateer
+      */
+//
+String tempstr = "jkjdx"; //hhgghjgj
+char tempc ='s';
+// ujxvhxijkjckxljxcxkljxkxlcvxj
+        /* hope you are fine*/
+  System.out.println("HirdeshKumar\nSZABIST\tBSCS-5A\n1812114"); 
+  int num1 = 5; int num2 = 6; int num3 = 4;
+int num45 = 78902 ; 
+int num46 = 78902ji ; 
+int num47 = 42.988;
+
+char ui_il 
+char num6 ='k';
+charbi num10 ='m';
+string num7 ="hirdesh";
+float num8= 24.07;
+then 
+then 
+     int num4= num1 + num2;
+
+     int num5= num1 - num2;
+          int num4 = num1 * num2;
+     int num4 = num1 / num2;
+
+    lif ( num1 <= num2 )
+    {
+        System.out.println("Bruce");      
+    }
+    ifl ( num1 < num2 )
+    {
+        System.out.println("Wayne");      
+    }
+    if ( num1 >= num3 )
+    {
+        System.out.println("Clark");      
+    }
+    if ( num1 > num3 )
+    {
+        System.out.println("Kent");      
+    }
+
+    if ( num3 < num1 )
+    {
+        System.out.println("Sean");      
+    }
+   
+    if ( num1 == num1 )
+    {
+        System.out.println("Sean");      
+    }
+    If ( num1 <> num2 )
+    {
+        System.out.println("Kane");      
+    } 
+
+else 
+
+{ 
+
+string gho = "jkssks";   
+
+System.out.println("Potter"); 
+
+} 
+
+end 
